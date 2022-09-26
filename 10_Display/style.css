@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-size: 2rem;
+  font-family: "Roboto", sans-serif;
+}
+
+main {
+  /* background-color: aqua; */
+  width: 50%;
+}
+p {
+  background-color: lightgray;
+  /* margin: 100px 50px; */
+}
+
+.opposite {
+  display: inline-block;
+  background-color: #333;
+  color: white;
+  margin-top: 100px;
+  /* margin-top : 100px;   can't apply margin and height  on inline element  can only when your call display: inline-block; */
+
+  height: 200px;
+  padding: 4rem;
+}
