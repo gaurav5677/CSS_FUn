@@ -1,0 +1,26 @@
+/* Typography is the way that text is arranged and presented */
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+body {
+  padding: 5%;
+  font-size: 2rem;
+  font-family: "Bungee Spice", cursive;
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  /* text-decoration:none */
+  /* text-transform: capitalize; */
+  /* text-transform: lowercase; */
+  /* text-transform: uppercase; */
+  text-align: justify;
+  text-indent: 4em;
+  line-height: 1.5em;
+  /* letter-spacing: 0.1em; */
+  /* word-spacing: 0.5em; */
+}
+/* input ,button{
+
+   font: inherit ;
+
+} */
